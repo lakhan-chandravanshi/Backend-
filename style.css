@@ -1,0 +1,10 @@
+#container{
+    width: 30%;
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
+
+#conatiner>input{
+margin: 10px;
+}
